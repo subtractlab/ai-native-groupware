@@ -22,7 +22,7 @@ AI Native Groupware takes a fourth path: **no two people ever write the same thi
 ## How it works
 
 ```mermaid
-flowchart LR
+flowchart TB
   subgraph PC["Each PC"]
     UI["App screen"]
     DK["DuckDB<br/>in-memory window"]

@@ -22,7 +22,7 @@ AI Native Groupware は4つ目の道を取る。**同じものを、二人で書
 ## 仕組み
 
 ```mermaid
-flowchart LR
+flowchart TB
   subgraph PC["各PC"]
     UI["アプリの画面"]
     DK["DuckDB<br/>インメモリの窓"]
