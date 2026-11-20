@@ -1,6 +1,7 @@
 # AI Native Groupware
 
 **サーバーを立てない。共有ストレージに一人一ファイル、計算は各PCの DuckDB。**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24388287.svg)](https://doi.org/10.5281/zenodo.24388287)
 
 実績の集計、日報、承認、帳票。社内の業務データを、SaaS も社内のDBサーバーも立てずに全員で回すための構造。
 置くのは、会社がもう持っている共有ストレージ（Box・OneDrive・SharePoint・ファイルサーバー）だけ。計算は各PCの中で DuckDB がやる。
