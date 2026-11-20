@@ -1,0 +1,21 @@
+{
+  "title": "AI Native Groupware: a dated design record",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "description": "<p>No server. One file per person on shared storage. DuckDB on every PC.</p><p>Results, daily reports, approvals, reports. A structure for running a team's business data without a SaaS and without an in-house database server.\nThe only shared thing is storage the company already has (Box, OneDrive, SharePoint, a file server). Every PC does its own computing with DuckDB.</p><p>A dated public record of the design. The implementation is not published. More: https://subtractlab.com</p>",
+  "creators": [
+    {
+      "name": "Okuda, Koji",
+      "affiliation": "SubtractLab",
+      "orcid": "0009-0003-9251-8455"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "AI memory",
+    "conversational memory",
+    "LLM agents",
+    "SubtractLab"
+  ]
+}
