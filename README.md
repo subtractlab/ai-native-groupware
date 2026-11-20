@@ -1,6 +1,7 @@
 # AI Native Groupware
 
 **No server. One file per person on shared storage. DuckDB on every PC.**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24388287.svg)](https://doi.org/10.5281/zenodo.24388287)
 
 Results, daily reports, approvals, reports. A structure for running a team's business data without a SaaS and without an in-house database server.
 The only shared thing is storage the company already has (Box, OneDrive, SharePoint, a file server). Every PC does its own computing with DuckDB.
